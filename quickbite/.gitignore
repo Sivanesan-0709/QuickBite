@@ -1,0 +1,12 @@
+# Never commit real hosting credentials
+config.local.php
+.env
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
